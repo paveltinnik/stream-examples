@@ -1,4 +1,4 @@
-package com.paveltinnik.advanced_functional_concepts.design_patterns.command.ide;
+package com.paveltinnik.advanced_functional_concepts.design_patterns.command.ide.editor;
 
 public interface Editor {
     /**
