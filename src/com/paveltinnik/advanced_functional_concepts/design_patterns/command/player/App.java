@@ -1,4 +1,6 @@
-package com.paveltinnik.advanced_functional_concepts.design_patterns.command;
+package com.paveltinnik.advanced_functional_concepts.design_patterns.command.player;
+
+import com.paveltinnik.advanced_functional_concepts.design_patterns.command.player.commands.Command;
 
 import java.util.ArrayList;
 import java.util.List;

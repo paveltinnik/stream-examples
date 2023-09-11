@@ -1,4 +1,7 @@
-package com.paveltinnik.advanced_functional_concepts.design_patterns.command;
+package com.paveltinnik.advanced_functional_concepts.design_patterns.command.player;
+
+import com.paveltinnik.advanced_functional_concepts.design_patterns.command.player.speaker.Speaker;
+import com.paveltinnik.advanced_functional_concepts.design_patterns.command.player.speaker.SpeakerImpl;
 
 public class Main {
     public static void main(String[] args) {
